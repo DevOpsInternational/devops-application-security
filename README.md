@@ -34,3 +34,5 @@
 - Test for external session hijacking
 
 ......
+for a detailed analysis and security advise including encryption services, you can contact us at info@devopsinternational.nl 
+
